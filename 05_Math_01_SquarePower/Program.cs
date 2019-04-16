@@ -3,6 +3,7 @@
 //Course material: Intrucduction to C#
 
 using System;
+using static System.Math;
 
 namespace _05_Math_01_SquarePower
 {
@@ -12,8 +13,8 @@ namespace _05_Math_01_SquarePower
         {
             var input = 9;
 
-            var root = Math.Sqrt(input);
-            var power = Math.Pow(root, 3);
+            var root = Sqrt(input);
+            var power = Pow(root, 3);
 
             Console.WriteLine($"Number = {input}");
             Console.WriteLine($"Square Root = {root}");
