@@ -1,6 +1,6 @@
 ﻿//DevFluence
 //April 2019
-//Course material: Intrucduction to C#
+//Course material: Introduction to C#
 
 using System;
 using System.Collections.Generic;
